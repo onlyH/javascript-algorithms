@@ -11,3 +11,10 @@ export default function factorial(number) {
 
   return result;
 }
+
+
+```
+function test(n){
+return n == 0 ? 1 : n * test(n - 1) 
+}
+```
