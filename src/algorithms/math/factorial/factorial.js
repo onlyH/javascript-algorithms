@@ -11,3 +11,5 @@ export default function factorial(number) {
 
   return result;
 }
+
+
